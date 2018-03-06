@@ -1,3 +1,4 @@
 # soraban
 C++ Soraban (Japanese Abacus)
-![alt text](soraban.png)
+
+![Soraban](soraban.png)
