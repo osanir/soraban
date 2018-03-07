@@ -88,7 +88,7 @@ void Soraban::shiftBead(){
         }
 
     }else {
-        cout << "Invalid coordinate! ";
+        cout << "Invalid coordinate! \n";
     }
 }
 
